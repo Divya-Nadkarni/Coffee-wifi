@@ -1,2 +1,2 @@
 # Coffee-wifi
-coffee-wifi website developed using Flask
+my coffee-wifi cafe experience review website developed using Flask
